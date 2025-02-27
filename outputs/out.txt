@@ -1,0 +1,190 @@
+2025-01-31 11:37:13,444 - INFO - Running figureTable...
+2025-01-31 11:40:08,168 - INFO - Processing workingData/eda\arXiv_src_0001_001.tar...
+2025-01-31 11:40:08,193 - INFO - Done processing workingData/eda\arXiv_src_0001_001.tar. Time taken: 43.89 seconds
+2025-01-31 11:40:08,193 - INFO - Processing workingData/eda\arXiv_src_0002_001.tar...
+2025-01-31 11:40:08,193 - INFO - Error processing tar file workingData/eda\arXiv_src_0002_001.tar: unexpected end of data
+2025-01-31 11:40:08,194 - INFO - Done processing workingData/eda\arXiv_src_0002_001.tar. Time taken: 0.13 seconds
+2025-01-31 11:40:08,194 - INFO - Processing workingData/eda\arXiv_src_0003_001.tar...
+2025-01-31 11:40:08,194 - INFO - Done processing workingData/eda\arXiv_src_0003_001.tar. Time taken: 46.61 seconds
+2025-01-31 11:40:08,198 - INFO - Processing workingData/eda\arXiv_src_0004_001.tar...
+2025-01-31 11:40:08,198 - INFO - Done processing workingData/eda\arXiv_src_0004_001.tar. Time taken: 37.14 seconds
+2025-01-31 11:40:08,199 - INFO - Processing workingData/eda\arXiv_src_0005_001.tar...
+2025-01-31 11:40:08,199 - INFO - Done processing workingData/eda\arXiv_src_0005_001.tar. Time taken: 46.77 seconds
+2025-01-31 11:40:08,199 - INFO - All results saved to workingData/eda\all_tar_analysis.jsonl
+2025-01-31 11:40:08,199 - INFO - Non-processed files (corrupted): 1
+2025-01-31 11:40:08,199 - INFO - Non-processed files list: ['workingData/eda\\arXiv_src_0002_001.tar']
+2025-01-31 11:40:08,200 - INFO - Total script running time: 174.60 seconds
+2025-01-31 11:40:08,200 - INFO - figureTable completed successfully.
+Processing workingData/eda\arXiv_src_0001_001.tar...
+Done processing workingData/eda\arXiv_src_0001_001.tar. Time taken: 43.89 seconds
+Processing workingData/eda\arXiv_src_0002_001.tar...
+Error processing tar file workingData/eda\arXiv_src_0002_001.tar: unexpected end of data
+Done processing workingData/eda\arXiv_src_0002_001.tar. Time taken: 0.13 seconds
+Processing workingData/eda\arXiv_src_0003_001.tar...
+Done processing workingData/eda\arXiv_src_0003_001.tar. Time taken: 46.61 seconds
+Processing workingData/eda\arXiv_src_0004_001.tar...
+Done processing workingData/eda\arXiv_src_0004_001.tar. Time taken: 37.14 seconds
+Processing workingData/eda\arXiv_src_0005_001.tar...
+Done processing workingData/eda\arXiv_src_0005_001.tar. Time taken: 46.77 seconds
+All results saved to workingData/eda\all_tar_analysis.jsonl
+Non-processed files (corrupted): 1
+Non-processed files list: ['workingData/eda\\arXiv_src_0002_001.tar']
+Total script running time: 174.60 seconds
+2025-01-31 11:40:08,201 - INFO - figureTable.py processing time: 174.76 seconds
+2025-01-31 11:40:08,201 - INFO - Running latexType...
+2025-01-31 11:40:33,073 - INFO - Processing workingData/eda/arXiv_src_0001_001.tar...
+2025-01-31 11:40:33,081 - INFO - Done processing workingData/eda/arXiv_src_0001_001.tar
+2025-01-31 11:40:33,081 - INFO - Processing workingData/eda/arXiv_src_0002_001.tar...
+2025-01-31 11:40:33,081 - INFO - Tar file error for workingData/eda/arXiv_src_0002_001.tar: unexpected end of data
+2025-01-31 11:40:33,081 - INFO - Error processing tar file workingData/eda/arXiv_src_0002_001.tar: unexpected end of data
+2025-01-31 11:40:33,081 - INFO - Processing workingData/eda/arXiv_src_0003_001.tar...
+2025-01-31 11:40:33,085 - INFO - Done processing workingData/eda/arXiv_src_0003_001.tar
+2025-01-31 11:40:33,085 - INFO - Processing workingData/eda/arXiv_src_0004_001.tar...
+2025-01-31 11:40:33,085 - INFO - Done processing workingData/eda/arXiv_src_0004_001.tar
+2025-01-31 11:40:33,085 - INFO - Processing workingData/eda/arXiv_src_0005_001.tar...
+2025-01-31 11:40:33,085 - INFO - Done processing workingData/eda/arXiv_src_0005_001.tar
+2025-01-31 11:40:33,086 - INFO - 
+2025-01-31 11:40:33,086 - INFO - Processing complete. Stats:
+2025-01-31 11:40:33,102 - INFO - Processed .tar files = 4
+2025-01-31 11:40:33,102 - INFO - Not processed / Corrupted .tar files = 1
+2025-01-31 11:40:33,102 - INFO - Corrupted .tar files: workingData/eda/arXiv_src_0002_001.tar
+2025-01-31 11:40:33,102 - INFO - Summary saved to workingData/eda/insideTarAnalysisNumbers.jsonl
+2025-01-31 11:40:33,102 - INFO - All results saved to workingData/eda/insideTarAnalysis.jsonl
+2025-01-31 11:40:33,102 - INFO - latexType completed successfully.
+Processing workingData/eda/arXiv_src_0001_001.tar...
+Done processing workingData/eda/arXiv_src_0001_001.tar
+Processing workingData/eda/arXiv_src_0002_001.tar...
+Tar file error for workingData/eda/arXiv_src_0002_001.tar: unexpected end of data
+Error processing tar file workingData/eda/arXiv_src_0002_001.tar: unexpected end of data
+Processing workingData/eda/arXiv_src_0003_001.tar...
+Done processing workingData/eda/arXiv_src_0003_001.tar
+Processing workingData/eda/arXiv_src_0004_001.tar...
+Done processing workingData/eda/arXiv_src_0004_001.tar
+Processing workingData/eda/arXiv_src_0005_001.tar...
+Done processing workingData/eda/arXiv_src_0005_001.tar
+
+Processing complete. Stats:
+Processed .tar files = 4
+Not processed / Corrupted .tar files = 1
+Corrupted .tar files: workingData/eda/arXiv_src_0002_001.tar
+Summary saved to workingData/eda/insideTarAnalysisNumbers.jsonl
+All results saved to workingData/eda/insideTarAnalysis.jsonl
+2025-01-31 11:40:33,106 - INFO - latexType.py processing time: 24.90 seconds
+2025-01-31 11:40:33,106 - INFO - Running mapping...
+2025-01-31 11:41:31,803 - INFO - Error: Unable to read tar file workingData/eda\arXiv_src_0002_001.tar, it may be corrupted or incomplete.
+2025-01-31 11:41:31,811 - INFO - 
+2025-01-31 11:41:31,812 - INFO - Summary Report:
+2025-01-31 11:41:31,812 - INFO - Processed 4 file pairs
+2025-01-31 11:41:31,812 - INFO - Total .gz files: 9606
+2025-01-31 11:41:31,814 - INFO - Total .pdf files: 7254
+2025-01-31 11:41:31,814 - INFO - Perfect mappings: 7146
+2025-01-31 11:41:31,814 - INFO - Missing .gz files: 108
+2025-01-31 11:41:31,814 - INFO - Missing .pdf files: 2460
+2025-01-31 11:41:31,815 - INFO - 
+2025-01-31 11:41:31,815 - INFO - Unpaired .tar files: 1
+2025-01-31 11:41:31,815 - INFO - - Corrupted file in pair: arXiv_src_0002_001.tar or arXiv_pdf_0002_001.tar
+2025-01-31 11:41:31,815 - INFO - mapping completed successfully.
+Error: Unable to read tar file workingData/eda\arXiv_src_0002_001.tar, it may be corrupted or incomplete.
+
+Summary Report:
+Processed 4 file pairs
+Total .gz files: 9606
+Total .pdf files: 7254
+Perfect mappings: 7146
+Missing .gz files: 108
+Missing .pdf files: 2460
+
+Unpaired .tar files: 1
+ - Corrupted file in pair: arXiv_src_0002_001.tar or arXiv_pdf_0002_001.tar
+2025-01-31 11:41:31,816 - INFO - mapping.py processing time: 58.71 seconds
+2025-01-31 11:41:31,816 - INFO - Running pdfPageCount...
+2025-01-31 11:43:55,921 - INFO - Processing arXiv_pdf_0001_001.tar...
+2025-01-31 11:43:55,922 - ERROR - C:\Semester6CSERnD\pdfPageCount.py:61: DeprecationWarning: Python 3.14 will, by default, filter extracted tar archives and reject files or modify their metadata. Use the filter argument to control this behavior.
+2025-01-31 11:43:55,924 - INFO - Done processing arXiv_pdf_0001_001.tar
+2025-01-31 11:43:55,924 - ERROR - tar_ref.extractall(extract_dir, filter=None)  # Avoiding DeprecationWarning
+2025-01-31 11:43:55,924 - INFO - {'total_files': 1797, 'total_pages': 28560, 'average_pages': 15.89, 'median_pages': 12, 'std_dev_pages': 14.91, 'min_pages': 1, 'max_pages': 153}
+2025-01-31 11:43:55,924 - ERROR - startxref on same line as offset
+2025-01-31 11:43:55,925 - INFO - Processing arXiv_pdf_0002_001.tar...
+2025-01-31 11:43:55,925 - ERROR - incorrect startxref pointer(1)
+2025-01-31 11:43:55,925 - INFO - Error processing gr-qc0002062.pdf: Cannot read an empty file
+2025-01-31 11:43:55,925 - ERROR - startxref on same line as offset
+2025-01-31 11:43:55,925 - INFO - Done processing arXiv_pdf_0002_001.tar
+2025-01-31 11:43:55,950 - INFO - {'total_files': 1736, 'total_pages': 27954, 'average_pages': 16.1, 'median_pages': 12.0, 'std_dev_pages': 16.33, 'min_pages': 1, 'max_pages': 230}
+2025-01-31 11:43:55,951 - INFO - Processing arXiv_pdf_0003_001.tar...
+2025-01-31 11:43:55,951 - INFO - Done processing arXiv_pdf_0003_001.tar
+2025-01-31 11:43:55,951 - INFO - {'total_files': 1815, 'total_pages': 28496, 'average_pages': 15.7, 'median_pages': 12, 'std_dev_pages': 15.25, 'min_pages': 1, 'max_pages': 233}
+2025-01-31 11:43:55,952 - INFO - Processing arXiv_pdf_0004_001.tar...
+2025-01-31 11:43:55,952 - INFO - Error processing cond-mat0004352.pdf: Cannot read an empty file
+2025-01-31 11:43:55,952 - INFO - Done processing arXiv_pdf_0004_001.tar
+2025-01-31 11:43:55,952 - INFO - {'total_files': 1864, 'total_pages': 31270, 'average_pages': 16.78, 'median_pages': 12.0, 'std_dev_pages': 17.04, 'min_pages': 1, 'max_pages': 240}
+2025-01-31 11:43:55,952 - INFO - Processing arXiv_pdf_0005_001.tar...
+2025-01-31 11:43:55,952 - INFO - Done processing arXiv_pdf_0005_001.tar
+2025-01-31 11:43:55,953 - INFO - {'total_files': 1777, 'total_pages': 27001, 'average_pages': 15.19, 'median_pages': 11, 'std_dev_pages': 15.9, 'min_pages': 1, 'max_pages': 191}
+2025-01-31 11:43:55,953 - INFO - 
+2025-01-31 11:43:55,953 - INFO - Processing complete. Stats:
+2025-01-31 11:43:55,953 - INFO - Processed .tar files = 5
+2025-01-31 11:43:55,954 - INFO - Not processed / Corrupted .tar files = 0
+2025-01-31 11:43:55,954 - INFO - pdfPageCount completed successfully.
+Processing arXiv_pdf_0001_001.tar...
+C:\Semester6CSERnD\pdfPageCount.py:61: DeprecationWarning: Python 3.14 will, by default, filter extracted tar archives and reject files or modify their metadata. Use the filter argument to control this behavior.
+Done processing arXiv_pdf_0001_001.tar
+  tar_ref.extractall(extract_dir, filter=None)  # Avoiding DeprecationWarning
+{'total_files': 1797, 'total_pages': 28560, 'average_pages': 15.89, 'median_pages': 12, 'std_dev_pages': 14.91, 'min_pages': 1, 'max_pages': 153}
+startxref on same line as offset
+Processing arXiv_pdf_0002_001.tar...
+incorrect startxref pointer(1)
+Error processing gr-qc0002062.pdf: Cannot read an empty file
+startxref on same line as offset
+Done processing arXiv_pdf_0002_001.tar
+{'total_files': 1736, 'total_pages': 27954, 'average_pages': 16.1, 'median_pages': 12.0, 'std_dev_pages': 16.33, 'min_pages': 1, 'max_pages': 230}
+Processing arXiv_pdf_0003_001.tar...
+Done processing arXiv_pdf_0003_001.tar
+{'total_files': 1815, 'total_pages': 28496, 'average_pages': 15.7, 'median_pages': 12, 'std_dev_pages': 15.25, 'min_pages': 1, 'max_pages': 233}
+Processing arXiv_pdf_0004_001.tar...
+Error processing cond-mat0004352.pdf: Cannot read an empty file
+Done processing arXiv_pdf_0004_001.tar
+{'total_files': 1864, 'total_pages': 31270, 'average_pages': 16.78, 'median_pages': 12.0, 'std_dev_pages': 17.04, 'min_pages': 1, 'max_pages': 240}
+Processing arXiv_pdf_0005_001.tar...
+Done processing arXiv_pdf_0005_001.tar
+{'total_files': 1777, 'total_pages': 27001, 'average_pages': 15.19, 'median_pages': 11, 'std_dev_pages': 15.9, 'min_pages': 1, 'max_pages': 191}
+
+Processing complete. Stats:
+Processed .tar files = 5
+Not processed / Corrupted .tar files = 0
+2025-01-31 11:43:55,954 - INFO - pdfPageCount.py processing time: 144.14 seconds
+2025-01-31 11:43:55,955 - INFO - Running sourcePDFcopy...
+2025-01-31 11:44:15,229 - INFO - Processing ./workingData/eda/arXiv_src_0001_001.tar...
+2025-01-31 11:44:15,229 - ERROR - C:\Semester6CSERnD\sourcePDFcopy.py:25: DeprecationWarning: Python 3.14 will, by default, filter extracted tar archives and reject files or modify their metadata. Use the filter argument to control this behavior.
+2025-01-31 11:44:15,229 - INFO - Done processing ./workingData/eda/arXiv_src_0001_001.tar
+2025-01-31 11:44:15,229 - ERROR - tar_ref.extractall(temp_extract_dir, filter=None)
+2025-01-31 11:44:15,229 - INFO - Processing ./workingData/eda/arXiv_src_0002_001.tar...
+2025-01-31 11:44:15,238 - INFO - Processing ./workingData/eda/arXiv_src_0003_001.tar...
+2025-01-31 11:44:15,238 - INFO - Done processing ./workingData/eda/arXiv_src_0003_001.tar
+2025-01-31 11:44:15,238 - INFO - Processing ./workingData/eda/arXiv_src_0004_001.tar...
+2025-01-31 11:44:15,241 - INFO - Done processing ./workingData/eda/arXiv_src_0004_001.tar
+2025-01-31 11:44:15,241 - INFO - Processing ./workingData/eda/arXiv_src_0005_001.tar...
+2025-01-31 11:44:15,241 - INFO - Done processing ./workingData/eda/arXiv_src_0005_001.tar
+2025-01-31 11:44:15,241 - INFO - 
+2025-01-31 11:44:15,241 - INFO - Processing complete. Stats:
+2025-01-31 11:44:15,241 - INFO - Processed .tar files = 4
+2025-01-31 11:44:15,241 - INFO - Not processed / Corrupted .tar files = 1
+2025-01-31 11:44:15,241 - INFO - Corrupted .tar files: ./workingData/eda/arXiv_src_0002_001.tar
+2025-01-31 11:44:15,241 - INFO - sourcePDFcopy completed successfully.
+Processing ./workingData/eda/arXiv_src_0001_001.tar...
+C:\Semester6CSERnD\sourcePDFcopy.py:25: DeprecationWarning: Python 3.14 will, by default, filter extracted tar archives and reject files or modify their metadata. Use the filter argument to control this behavior.
+Done processing ./workingData/eda/arXiv_src_0001_001.tar
+  tar_ref.extractall(temp_extract_dir, filter=None)
+Processing ./workingData/eda/arXiv_src_0002_001.tar...
+Processing ./workingData/eda/arXiv_src_0003_001.tar...
+Done processing ./workingData/eda/arXiv_src_0003_001.tar
+Processing ./workingData/eda/arXiv_src_0004_001.tar...
+Done processing ./workingData/eda/arXiv_src_0004_001.tar
+Processing ./workingData/eda/arXiv_src_0005_001.tar...
+Done processing ./workingData/eda/arXiv_src_0005_001.tar
+
+Processing complete. Stats:
+Processed .tar files = 4
+Not processed / Corrupted .tar files = 1
+Corrupted .tar files: ./workingData/eda/arXiv_src_0002_001.tar
+2025-01-31 11:44:15,241 - INFO - sourcePDFcopy.py processing time: 19.29 seconds
+2025-01-31 11:44:15,241 - INFO - Total processing time: 421.80 seconds
